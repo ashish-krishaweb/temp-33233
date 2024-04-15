@@ -1,5 +1,11 @@
 # temp-33233
 
+## 0.1.2
+
+### Patch Changes
+
+-  bccc6ac: yes
+
 ## 0.1.2-beta.0
 
 ### Patch Changes
