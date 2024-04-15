@@ -3,21 +3,18 @@
    "version": "0.1.1-beta.0",
    "description": "A great collection of React utility hooks",
    "keywords": [
-      "classic-react-hooks",
-      "react hooks",
-      "hooks",
-      "custom hooks"
+      "temp-33233"
    ],
    "repository": {
       "type": "git",
-      "url": "https://github.com/Ashish-simpleCoder/classic-react-hooks.git"
+      "url": "https://github.com/ashish-krishaweb/temp-33233.git"
    },
    "publishConfig": {
       "access": "public",
       "provenance": true
    },
-   "homepage": "https://github.com/Ashish-simpleCoder/classic-react-hooks",
-   "author": "Ashish-simpleCoder",
+   "homepage": "https://github.com/ashish-krishaweb/temp-33233",
+   "author": "ashish-krishaweb",
    "license": "MIT",
    "private": false,
    "sideEffects": false,
