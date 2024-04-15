@@ -6,9 +6,9 @@ jobs:
       env:
          CI_JOB_NUMBER: 1
       steps:
-         - run: pnpm i -g pnpm
          - uses: actions/checkout@v3
          - uses: pnpm/action-setup@v2
+         - run: pnpm i -g pnpm
            with:
               version: 8
          - run: pnpm install --no-frozen-lockfile
