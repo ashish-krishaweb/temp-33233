@@ -1,5 +1,11 @@
 # temp-33233
 
+## 0.1.1-beta.2
+
+### Patch Changes
+
+-  f165a41: update readme
+
 ## 0.1.1-beta.1
 
 ### Patch Changes
