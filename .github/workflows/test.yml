@@ -11,5 +11,5 @@ jobs:
            with:
               version: 8
          - run: pnpm i -g pnpm
-         - run: pnpm install --no-frozen-lockfile
+         - run: pnpm install --frozen-lockfile
          - run: pnpm build && pnpm test
