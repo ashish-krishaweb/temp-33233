@@ -27,7 +27,7 @@ https://temp-33233.vercel.app/
 -  Comes with treeshaking
 -  Typescript support
 -  Small bundle size
--  Minimal and Easy to use
+-  Minimal and Easy to use.
 
 ## Installation
 
