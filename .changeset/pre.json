@@ -5,6 +5,7 @@
     "temp-33233": "0.1.0"
   },
   "changesets": [
-    "rude-baboons-taste"
+    "rude-baboons-taste",
+    "smooth-drinks-add"
   ]
 }
