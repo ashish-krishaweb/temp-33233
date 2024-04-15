@@ -5,6 +5,7 @@
     "temp-33233": "0.1.0"
   },
   "changesets": [
+    "clean-plums-fix",
     "clever-readers-applaud",
     "rude-baboons-taste",
     "smooth-drinks-add"

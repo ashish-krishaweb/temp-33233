@@ -1,5 +1,11 @@
 # temp-33233
 
+## 0.1.1-beta.3
+
+### Patch Changes
+
+-  1b5eca8: package
+
 ## 0.1.1-beta.2
 
 ### Patch Changes
