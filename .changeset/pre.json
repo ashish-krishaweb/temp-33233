@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "temp-33233": "0.1.0"
+  },
+  "changesets": [
+    "rude-baboons-taste"
+  ]
+}
