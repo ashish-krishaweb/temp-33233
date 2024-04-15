@@ -8,9 +8,9 @@ jobs:
       steps:
          - uses: actions/checkout@v3
          - uses: pnpm/action-setup@v2
-         - run: pnpm i -g pnpm
            with:
               version: 8
+         - run: pnpm i -g pnpm
          - uses: andresz1/size-limit-action@v1
            with:
               github_token: ${{ secrets.GITHUB_TOKEN }}
