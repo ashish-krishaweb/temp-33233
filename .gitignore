@@ -1,0 +1,12 @@
+todo.md
+dist
+node_modules
+coverage
+scripts
+.vscode
+example
+.DS_STORE
+
+apps/*
+!apps/doc
+apps/doc/.vitepress/cache
